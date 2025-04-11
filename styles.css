@@ -9,6 +9,7 @@
 .native-checkbox {
    align-self: flex-start;
    margin:auto;
+   display: none
 }
 
 
