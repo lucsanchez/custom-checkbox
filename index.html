@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Checkbox</title>
+    <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+    <div class="container">
+        <input type="checkbox" id="checkbox" class="native-checkbox" />
+        <button class="custom-checkbox-wrapper" aria-checked="false" aria-label="custom checkbox">
+            <span class="custom-checkbox">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" class="check-icon">
+                    <rect width="256" height="256" fill="none"></rect>
+                    <polyline points="216 72.0005 104 184 48 128.005" fill="none" stroke="currentColor"
+                        stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline>
+                </svg>
+            </span>
+        </button>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
