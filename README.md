@@ -10,3 +10,11 @@ Synchronization: Checking or unchecking either checkbox updates the state of the
 Accessibility: The custom checkbox uses aria-checked and aria-label attributes to ensure it is accessible to screen readers and keyboard navigation.
 Focus Management: Focus styles are applied to both checkboxes, ensuring a clear visual indication of focus for users.
 Custom Styling: The custom checkbox is styled using CSS to provide a visually distinct appearance while maintaining functionality.
+
+
+# Screenshots
+
+## Both checkboxes
+
+https://github.com/user-attachments/assets/c5964d02-5f8a-4a21-9bb3-3a91ed580069
+
