@@ -18,3 +18,7 @@ Custom Styling: The custom checkbox is styled using CSS to provide a visually di
 
 https://github.com/user-attachments/assets/c5964d02-5f8a-4a21-9bb3-3a91ed580069
 
+## Custom checkbox
+
+https://github.com/user-attachments/assets/82a60edb-20e8-4640-bec5-cd19c01f8eb9
+
